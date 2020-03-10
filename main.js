@@ -29,3 +29,11 @@ class BinarySearchTree {
     }
   }
 }
+
+let testBinaryTree = new BinarySearchTree();
+
+testBinaryTree.insert(10, 10);
+testBinaryTree.insert(15, 20);
+testBinaryTree.insert(5, 2);
+
+console.log(testBinaryTree);
