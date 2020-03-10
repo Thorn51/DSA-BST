@@ -1,0 +1,19 @@
+{
+  "name": "07_binary_search_trees",
+  "version": "1.0.0",
+  "description": "Exercises completed in the Thinkful Data Structures and Algorithms module on binary search trees.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thorn51/DSA-BST.git"
+  },
+  "author": "Matt Thornberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thorn51/DSA-BST/issues"
+  },
+  "homepage": "https://github.com/Thorn51/DSA-BST#readme"
+}
